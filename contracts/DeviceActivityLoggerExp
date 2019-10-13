@@ -1,0 +1,32 @@
+pragma solidity ^0.5.0;
+pragma experimental ABIEncoderV2;
+
+contract DeviceActivityLogger {
+    address contractCreator;
+    mapping(string => Device) db;
+    struct Device {
+        uint logCount;
+        string[] logs;
+    }
+    constructor() public {
+        contractCreator = msg.sender;
+    }
+    modifier isAuth() {
+        if(contractCreator != msg.sender) {
+            revert("access denied");
+        }
+        _;
+    }
+    function addDevice(string memory _deviceCode) public isAuth {
+        Device memory dev;
+        dev.logCount = 0;
+        db[_deviceCode] = dev;
+    }
+    function addLogToDevice(string memory _deviceCode, string memory log) public isAuth{
+        db[_deviceCode].logs.push(log);
+        db[_deviceCode].logCount++;
+    }
+    function getLogs(string memory _deviceCode) public isAuth returns(string[] memory) {
+        return db[_deviceCode].logs;
+    }
+}
