@@ -48,24 +48,24 @@
       "signature": "0x1124c05a"
     }
   ],
-  "bytecode": "0x608060405234801561001057600080fd5b5060008054600160a060020a03191633179055610522806100326000396000f3fe60806040526004361061004b5763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416631124c05a811461005057806336d10002146100ef575b600080fd5b34801561005c57600080fd5b5061007a6004803603602081101561007357600080fd5b50356101ab565b6040805160208082528351818301528351919283929083019185019080838360005b838110156100b457818101518382015260200161009c565b50505050905090810190601f1680156100e15780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b3480156100fb57600080fd5b506101a96004803603604081101561011257600080fd5b8135919081019060408101602082013564010000000081111561013457600080fd5b82018360208201111561014657600080fd5b8035906020019184600183028401116401000000008311171561016857600080fd5b91908080601f0160208091040260200160405190810160405280939291908181526020018383808284376000920191909152509295506102d7945050505050565b005b60005460609073ffffffffffffffffffffffffffffffffffffffff16331461023457604080517f08c379a000000000000000000000000000000000000000000000000000000000815260206004820152600d60248201527f6163636573732064656e69656400000000000000000000000000000000000000604482015290519081900360640190fd5b60008281526001602081815260409283902080830180548551600295821615610100026000190190911694909404601f8101849004840285018401909552848452909390918301828280156102ca5780601f1061029f576101008083540402835291602001916102ca565b820191906000526020600020905b8154815290600101906020018083116102ad57829003601f168201915b5050505050915050919050565b60005473ffffffffffffffffffffffffffffffffffffffff16331461035d57604080517f08c379a000000000000000000000000000000000000000000000000000000000815260206004820152600d60248201527f6163636573732064656e69656400000000000000000000000000000000000000604482015290519081900360640190fd5b6000600160008481526020019081526020016000209050806001018260405160200180838054600181600116156101000203166002900480156103d75780601f106103b55761010080835404028352918201916103d7565b820191906000526020600020905b8154815290600101906020018083116103c3575b5050825160208401908083835b602083106104035780518252601f1990920191602091820191016103e4565b6001836020036101000a0380198251168184511680821785525050505050509050019250505060405160208183030381529060405281600101908051906020019061044f92919061045b565b50805460010190555050565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061049c57805160ff19168380011785556104c9565b828001600101855582156104c9579182015b828111156104c95782518255916020019190600101906104ae565b506104d59291506104d9565b5090565b6104f391905b808211156104d557600081556001016104df565b9056fea165627a7a72305820419d641d521ed7d1a139802ee1198a6c28889a73ac366643a9c32dc2d503bb4d0029",
-  "deployedBytecode": "0x60806040526004361061004b5763ffffffff7c01000000000000000000000000000000000000000000000000000000006000350416631124c05a811461005057806336d10002146100ef575b600080fd5b34801561005c57600080fd5b5061007a6004803603602081101561007357600080fd5b50356101ab565b6040805160208082528351818301528351919283929083019185019080838360005b838110156100b457818101518382015260200161009c565b50505050905090810190601f1680156100e15780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b3480156100fb57600080fd5b506101a96004803603604081101561011257600080fd5b8135919081019060408101602082013564010000000081111561013457600080fd5b82018360208201111561014657600080fd5b8035906020019184600183028401116401000000008311171561016857600080fd5b91908080601f0160208091040260200160405190810160405280939291908181526020018383808284376000920191909152509295506102d7945050505050565b005b60005460609073ffffffffffffffffffffffffffffffffffffffff16331461023457604080517f08c379a000000000000000000000000000000000000000000000000000000000815260206004820152600d60248201527f6163636573732064656e69656400000000000000000000000000000000000000604482015290519081900360640190fd5b60008281526001602081815260409283902080830180548551600295821615610100026000190190911694909404601f8101849004840285018401909552848452909390918301828280156102ca5780601f1061029f576101008083540402835291602001916102ca565b820191906000526020600020905b8154815290600101906020018083116102ad57829003601f168201915b5050505050915050919050565b60005473ffffffffffffffffffffffffffffffffffffffff16331461035d57604080517f08c379a000000000000000000000000000000000000000000000000000000000815260206004820152600d60248201527f6163636573732064656e69656400000000000000000000000000000000000000604482015290519081900360640190fd5b6000600160008481526020019081526020016000209050806001018260405160200180838054600181600116156101000203166002900480156103d75780601f106103b55761010080835404028352918201916103d7565b820191906000526020600020905b8154815290600101906020018083116103c3575b5050825160208401908083835b602083106104035780518252601f1990920191602091820191016103e4565b6001836020036101000a0380198251168184511680821785525050505050509050019250505060405160208183030381529060405281600101908051906020019061044f92919061045b565b50805460010190555050565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061049c57805160ff19168380011785556104c9565b828001600101855582156104c9579182015b828111156104c95782518255916020019190600101906104ae565b506104d59291506104d9565b5090565b6104f391905b808211156104d557600081556001016104df565b9056fea165627a7a72305820419d641d521ed7d1a139802ee1198a6c28889a73ac366643a9c32dc2d503bb4d0029",
-  "sourceMap": "27:673:0:-;;;64:57;8:9:-1;5:2;;;30:1;27;20:12;5:2;-1:-1;95:5:0;:18;;-1:-1:-1;;;;;;95:18:0;103:10;95:18;;;27:673;;;;;;",
-  "deployedSourceMap": "27:673:0:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;494:203;;8:9:-1;5:2;;;30:1;27;20:12;5:2;494:203:0;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;-1:-1;494:203:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:100:-1;33:3;30:1;27:10;8:100;;;90:11;;;84:18;71:11;;;64:39;52:2;45:10;8:100;;;12:14;494:203:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;253:235;;8:9:-1;5:2;;;30:1;27;20:12;5:2;253:235:0;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;253:235:0;;;;;;;;;;;;;;21:11:-1;5:28;;2:2;;;46:1;43;36:12;2:2;253:235:0;;35:9:-1;28:4;12:14;8:25;5:40;2:2;;;58:1;55;48:12;2:2;253:235:0;;;;;;100:9:-1;95:1;81:12;77:20;67:8;63:35;60:50;39:11;25:12;22:29;11:107;8:2;;;131:1;128;121:12;8:2;253:235:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30:3:-1;22:6;14;1:33;99:1;81:16;;74:27;;;;-1:-1;253:235:0;;-1:-1:-1;253:235:0;;-1:-1:-1;;;;;253:235:0;;;494:203;591:5;;543:13;;591:5;;577:10;:19;569:45;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;625:18;646:9;;;:2;:9;;;;;;;;;680:8;;;666:23;;;;;;;;;;;-1:-1:-1;;666:23:0;;;;;;;;;;;;;;;;;;;;;;;;;;646:9;;680:8;;666:23;;680:8;666:23;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;494:203;;;:::o;253:235::-;339:5;;;;325:10;:19;317:45;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;373:18;394:2;:9;397:5;394:9;;;;;;;;;;;373:30;;442:3;:8;;451:3;425:30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;;425:30:0;;;;;;;;;36:153:-1;66:2;58:11;;36:153;;176:10;;164:23;;-1:-1;;139:12;;;;98:2;89:12;;;;114;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;425:30:0;;;;;;;;;;;;49:4:-1;39:7;30;26:21;22:32;13:7;6:49;425:30:0;;;414:3;:8;;:41;;;;;;;;;;;;:::i;:::-;-1:-1:-1;466:14:0;;;;;;-1:-1:-1;;253:235:0:o;27:673::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;27:673:0;;;-1:-1:-1;27:673:0;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;:::o",
+  "bytecode": "0x608060405234801561001057600080fd5b50336000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550610601806100606000396000f3fe60806040526004361061004c576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631124c05a1461005157806336d1000214610105575b600080fd5b34801561005d57600080fd5b5061008a6004803603602081101561007457600080fd5b81019080803590602001909291905050506101d7565b6040518080602001828103825283818151815260200191508051906020019080838360005b838110156100ca5780820151818401526020810190506100af565b50505050905090810190601f1680156100f75780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b34801561011157600080fd5b506101d56004803603604081101561012857600080fd5b81019080803590602001909291908035906020019064010000000081111561014f57600080fd5b82018360208201111561016157600080fd5b8035906020019184600183028401116401000000008311171561018357600080fd5b91908080601f016020809104026020016040519081016040528093929190818152602001838380828437600081840152601f19601f820116905080830192505050505050509192919290505050610359565b005b60606000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561029d576040517f08c379a000000000000000000000000000000000000000000000000000000000815260040180806020018281038252600d8152602001807f6163636573732064656e6965640000000000000000000000000000000000000081525060200191505060405180910390fd5b6000600160008481526020019081526020016000209050806001018054600181600116156101000203166002900480601f01602080910402602001604051908101604052809291908181526020018280546001816001161561010002031660029004801561034c5780601f106103215761010080835404028352916020019161034c565b820191906000526020600020905b81548152906001019060200180831161032f57829003601f168201915b5050505050915050919050565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561041d576040517f08c379a000000000000000000000000000000000000000000000000000000000815260040180806020018281038252600d8152602001807f6163636573732064656e6965640000000000000000000000000000000000000081525060200191505060405180910390fd5b6000600160008481526020019081526020016000209050806001018260405160200180838054600181600116156101000203166002900480156104975780601f10610475576101008083540402835291820191610497565b820191906000526020600020905b815481529060010190602001808311610483575b505082805190602001908083835b6020831015156104ca57805182526020820191506020810190506020830392506104a5565b6001836020036101000a03801982511681845116808217855250505050505090500192505050604051602081830303815290604052816001019080519060200190610516929190610530565b508060000160008154809291906001019190505550505050565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061057157805160ff191683800117855561059f565b8280016001018555821561059f579182015b8281111561059e578251825591602001919060010190610583565b5b5090506105ac91906105b0565b5090565b6105d291905b808211156105ce5760008160009055506001016105b6565b5090565b9056fea165627a7a7230582023ccb040f5f3e8bd92275964ca7f0d4ed71f7d94c6884a6274bd886c2839bb610029",
+  "deployedBytecode": "0x60806040526004361061004c576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631124c05a1461005157806336d1000214610105575b600080fd5b34801561005d57600080fd5b5061008a6004803603602081101561007457600080fd5b81019080803590602001909291905050506101d7565b6040518080602001828103825283818151815260200191508051906020019080838360005b838110156100ca5780820151818401526020810190506100af565b50505050905090810190601f1680156100f75780820380516001836020036101000a031916815260200191505b509250505060405180910390f35b34801561011157600080fd5b506101d56004803603604081101561012857600080fd5b81019080803590602001909291908035906020019064010000000081111561014f57600080fd5b82018360208201111561016157600080fd5b8035906020019184600183028401116401000000008311171561018357600080fd5b91908080601f016020809104026020016040519081016040528093929190818152602001838380828437600081840152601f19601f820116905080830192505050505050509192919290505050610359565b005b60606000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561029d576040517f08c379a000000000000000000000000000000000000000000000000000000000815260040180806020018281038252600d8152602001807f6163636573732064656e6965640000000000000000000000000000000000000081525060200191505060405180910390fd5b6000600160008481526020019081526020016000209050806001018054600181600116156101000203166002900480601f01602080910402602001604051908101604052809291908181526020018280546001816001161561010002031660029004801561034c5780601f106103215761010080835404028352916020019161034c565b820191906000526020600020905b81548152906001019060200180831161032f57829003601f168201915b5050505050915050919050565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff1614151561041d576040517f08c379a000000000000000000000000000000000000000000000000000000000815260040180806020018281038252600d8152602001807f6163636573732064656e6965640000000000000000000000000000000000000081525060200191505060405180910390fd5b6000600160008481526020019081526020016000209050806001018260405160200180838054600181600116156101000203166002900480156104975780601f10610475576101008083540402835291820191610497565b820191906000526020600020905b815481529060010190602001808311610483575b505082805190602001908083835b6020831015156104ca57805182526020820191506020810190506020830392506104a5565b6001836020036101000a03801982511681845116808217855250505050505090500192505050604051602081830303815290604052816001019080519060200190610516929190610530565b508060000160008154809291906001019190505550505050565b828054600181600116156101000203166002900490600052602060002090601f016020900481019282601f1061057157805160ff191683800117855561059f565b8280016001018555821561059f579182015b8281111561059e578251825591602001919060010190610583565b5b5090506105ac91906105b0565b5090565b6105d291905b808211156105ce5760008160009055506001016105b6565b5090565b9056fea165627a7a7230582023ccb040f5f3e8bd92275964ca7f0d4ed71f7d94c6884a6274bd886c2839bb610029",
+  "sourceMap": "27:673:1:-;;;64:57;8:9:-1;5:2;;;30:1;27;20:12;5:2;64:57:1;103:10;95:5;;:18;;;;;;;;;;;;;;;;;;27:673;;;;;;",
+  "deployedSourceMap": "27:673:1:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;494:203;;8:9:-1;5:2;;;30:1;27;20:12;5:2;494:203:1;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;494:203:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23:1:-1;8:100;33:3;30:1;27:10;8:100;;;99:1;94:3;90:11;84:18;80:1;75:3;71:11;64:39;52:2;49:1;45:10;40:15;;8:100;;;12:14;494:203:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;253:235;;8:9:-1;5:2;;;30:1;27;20:12;5:2;253:235:1;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;253:235:1;;;;;;;;;;;;;;;;;;;21:11:-1;8;5:28;2:2;;;46:1;43;36:12;2:2;253:235:1;;35:9:-1;28:4;12:14;8:25;5:40;2:2;;;58:1;55;48:12;2:2;253:235:1;;;;;;100:9:-1;95:1;81:12;77:20;67:8;63:35;60:50;39:11;25:12;22:29;11:107;8:2;;;131:1;128;121:12;8:2;253:235:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30:3:-1;22:6;14;1:33;99:1;93:3;85:6;81:16;74:27;137:4;133:9;126:4;121:3;117:14;113:30;106:37;;169:3;161:6;157:16;147:26;;253:235:1;;;;;;;;;;;;;;;;;;494:203;543:13;591:5;;;;;;;;;;;577:19;;:10;:19;;;569:45;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;625:18;646:2;:9;649:5;646:9;;;;;;;;;;;625:30;;680:3;:8;;666:23;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;494:203;;;:::o;253:235::-;339:5;;;;;;;;;;;325:19;;:10;:19;;;317:45;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;373:18;394:2;:9;397:5;394:9;;;;;;;;;;;373:30;;442:3;:8;;451:3;425:30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;36:153:-1;66:2;61:3;58:11;51:19;36:153;;;182:3;176:10;171:3;164:23;98:2;93:3;89:12;82:19;;123:2;118:3;114:12;107:19;;148:2;143:3;139:12;132:19;;36:153;;;274:1;267:3;263:2;259:12;254:3;250:22;246:30;315:4;311:9;305:3;299:10;295:26;356:4;350:3;344:10;340:21;389:7;380;377:20;372:3;365:33;3:399;;;425:30:1;;;;;;;;;;;;49:4:-1;39:7;30;26:21;22:32;13:7;6:49;425:30:1;;;414:3;:8;;:41;;;;;;;;;;;;:::i;:::-;;466:3;:12;;;:14;;;;;;;;;;;;;253:235;;;:::o;27:673::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::i;:::-;;;:::o;:::-;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o",
   "source": "pragma solidity ^0.5.0;\r\n\r\ncontract DeviceActivityLogger {\r\n    constructor() public{\r\n        owner = msg.sender;\r\n    }\r\n    address owner;\r\n    mapping(uint => Device) db;\r\n    struct Device {\r\n        uint logCount;\r\n        bytes logs;\r\n    }\r\n    function addLog(uint devId, string memory log) public{\r\n        require(msg.sender == owner, \"access denied\");\r\n        Device storage dev = db[devId];\r\n        dev.logs = abi.encodePacked(dev.logs,log);\r\n        dev.logCount++;\r\n    }\r\n    function getLogs(uint devId) public view returns(string memory) {\r\n        require(msg.sender == owner, \"access denied\");\r\n        Device storage dev = db[devId];\r\n        return string(dev.logs);\r\n    }\r\n}",
-  "sourcePath": "C:/Users/samye/Desktop/_blockchain/secureSmartLock-blockChain/contracts/DeviceActivityLogger.sol",
+  "sourcePath": "C:/Users/samye/Desktop/_Blockchain/deviceActivityLoggerContract/contracts/DeviceActivityLogger.sol",
   "ast": {
-    "absolutePath": "/C/Users/samye/Desktop/_blockchain/secureSmartLock-blockChain/contracts/DeviceActivityLogger.sol",
+    "absolutePath": "/C/Users/samye/Desktop/_Blockchain/deviceActivityLoggerContract/contracts/DeviceActivityLogger.sol",
     "exportedSymbols": {
       "DeviceActivityLogger": [
-        87
+        221
       ]
     },
-    "id": 88,
+    "id": 222,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1,
+        "id": 135,
         "literals": [
           "solidity",
           "^",
@@ -73,7 +73,7 @@
           ".0"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:23:0"
+        "src": "0:23:1"
       },
       {
         "baseContracts": [],
@@ -81,35 +81,35 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 87,
+        "id": 221,
         "linearizedBaseContracts": [
-          87
+          221
         ],
         "name": "DeviceActivityLogger",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "body": {
-              "id": 9,
+              "id": 143,
               "nodeType": "Block",
-              "src": "84:37:0",
+              "src": "84:37:1",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 7,
+                    "id": 141,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 4,
+                      "id": 138,
                       "name": "owner",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 12,
-                      "src": "95:5:0",
+                      "referencedDeclaration": 146,
+                      "src": "95:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
@@ -121,18 +121,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 5,
+                        "id": 139,
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 217,
-                        "src": "103:3:0",
+                        "referencedDeclaration": 351,
+                        "src": "103:3:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
                           "typeString": "msg"
                         }
                       },
-                      "id": 6,
+                      "id": 140,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -140,56 +140,56 @@
                       "memberName": "sender",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "103:10:0",
+                      "src": "103:10:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address_payable",
                         "typeString": "address payable"
                       }
                     },
-                    "src": "95:18:0",
+                    "src": "95:18:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     }
                   },
-                  "id": 8,
+                  "id": 142,
                   "nodeType": "ExpressionStatement",
-                  "src": "95:18:0"
+                  "src": "95:18:1"
                 }
               ]
             },
             "documentation": null,
-            "id": 10,
+            "id": 144,
             "implemented": true,
             "kind": "constructor",
             "modifiers": [],
             "name": "",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 2,
+              "id": 136,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "75:2:0"
+              "src": "75:2:1"
             },
             "returnParameters": {
-              "id": 3,
+              "id": 137,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "84:0:0"
+              "src": "84:0:1"
             },
-            "scope": 87,
-            "src": "64:57:0",
+            "scope": 221,
+            "src": "64:57:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "constant": false,
-            "id": 12,
+            "id": 146,
             "name": "owner",
             "nodeType": "VariableDeclaration",
-            "scope": 87,
-            "src": "127:13:0",
+            "scope": 221,
+            "src": "127:13:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -197,10 +197,10 @@
               "typeString": "address"
             },
             "typeName": {
-              "id": 11,
+              "id": 145,
               "name": "address",
               "nodeType": "ElementaryTypeName",
-              "src": "127:7:0",
+              "src": "127:7:1",
               "stateMutability": "nonpayable",
               "typeDescriptions": {
                 "typeIdentifier": "t_address",
@@ -212,44 +212,44 @@
           },
           {
             "constant": false,
-            "id": 16,
+            "id": 150,
             "name": "db",
             "nodeType": "VariableDeclaration",
-            "scope": 87,
-            "src": "147:26:0",
+            "scope": 221,
+            "src": "147:26:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+              "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
               "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device)"
             },
             "typeName": {
-              "id": 15,
+              "id": 149,
               "keyType": {
-                "id": 13,
+                "id": 147,
                 "name": "uint",
                 "nodeType": "ElementaryTypeName",
-                "src": "155:4:0",
+                "src": "155:4:1",
                 "typeDescriptions": {
                   "typeIdentifier": "t_uint256",
                   "typeString": "uint256"
                 }
               },
               "nodeType": "Mapping",
-              "src": "147:23:0",
+              "src": "147:23:1",
               "typeDescriptions": {
-                "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+                "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
                 "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device)"
               },
               "valueType": {
                 "contractScope": null,
-                "id": 14,
+                "id": 148,
                 "name": "Device",
                 "nodeType": "UserDefinedTypeName",
-                "referencedDeclaration": 21,
-                "src": "163:6:0",
+                "referencedDeclaration": 155,
+                "src": "163:6:1",
                 "typeDescriptions": {
-                  "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                  "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                   "typeString": "struct DeviceActivityLogger.Device"
                 }
               }
@@ -259,15 +259,15 @@
           },
           {
             "canonicalName": "DeviceActivityLogger.Device",
-            "id": 21,
+            "id": 155,
             "members": [
               {
                 "constant": false,
-                "id": 18,
+                "id": 152,
                 "name": "logCount",
                 "nodeType": "VariableDeclaration",
-                "scope": 21,
-                "src": "205:13:0",
+                "scope": 155,
+                "src": "205:13:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -275,10 +275,10 @@
                   "typeString": "uint256"
                 },
                 "typeName": {
-                  "id": 17,
+                  "id": 151,
                   "name": "uint",
                   "nodeType": "ElementaryTypeName",
-                  "src": "205:4:0",
+                  "src": "205:4:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_uint256",
                     "typeString": "uint256"
@@ -289,11 +289,11 @@
               },
               {
                 "constant": false,
-                "id": 20,
+                "id": 154,
                 "name": "logs",
                 "nodeType": "VariableDeclaration",
-                "scope": 21,
-                "src": "229:10:0",
+                "scope": 155,
+                "src": "229:10:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -301,10 +301,10 @@
                   "typeString": "bytes"
                 },
                 "typeName": {
-                  "id": 19,
+                  "id": 153,
                   "name": "bytes",
                   "nodeType": "ElementaryTypeName",
-                  "src": "229:5:0",
+                  "src": "229:5:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_bytes_storage_ptr",
                     "typeString": "bytes"
@@ -316,15 +316,15 @@
             ],
             "name": "Device",
             "nodeType": "StructDefinition",
-            "scope": 87,
-            "src": "180:67:0",
+            "scope": 221,
+            "src": "180:67:1",
             "visibility": "public"
           },
           {
             "body": {
-              "id": 58,
+              "id": 192,
               "nodeType": "Block",
-              "src": "306:182:0",
+              "src": "306:182:1",
               "statements": [
                 {
                   "expression": {
@@ -336,7 +336,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 32,
+                        "id": 166,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -345,18 +345,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 29,
+                            "id": 163,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 217,
-                            "src": "325:3:0",
+                            "referencedDeclaration": 351,
+                            "src": "325:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 30,
+                          "id": 164,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -364,7 +364,7 @@
                           "memberName": "sender",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "325:10:0",
+                          "src": "325:10:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address_payable",
                             "typeString": "address payable"
@@ -374,18 +374,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 31,
+                          "id": 165,
                           "name": "owner",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 12,
-                          "src": "339:5:0",
+                          "referencedDeclaration": 146,
+                          "src": "339:5:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
                           }
                         },
-                        "src": "325:19:0",
+                        "src": "325:19:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -394,14 +394,14 @@
                       {
                         "argumentTypes": null,
                         "hexValue": "6163636573732064656e696564",
-                        "id": 33,
+                        "id": 167,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "string",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "346:15:0",
+                        "src": "346:15:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_stringliteral_cba8a57ccb1594d7138ca5e2a9216c55d23151b53a95734bafda4b812e3786ff",
@@ -421,21 +421,21 @@
                           "typeString": "literal_string \"access denied\""
                         }
                       ],
-                      "id": 28,
+                      "id": 162,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        220,
-                        221
+                        354,
+                        355
                       ],
-                      "referencedDeclaration": 221,
-                      "src": "317:7:0",
+                      "referencedDeclaration": 355,
+                      "src": "317:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 34,
+                    "id": 168,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -443,43 +443,43 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "317:45:0",
+                    "src": "317:45:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 35,
+                  "id": 169,
                   "nodeType": "ExpressionStatement",
-                  "src": "317:45:0"
+                  "src": "317:45:1"
                 },
                 {
                   "assignments": [
-                    37
+                    171
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 37,
+                      "id": 171,
                       "name": "dev",
                       "nodeType": "VariableDeclaration",
-                      "scope": 58,
-                      "src": "373:18:0",
+                      "scope": 192,
+                      "src": "373:18:1",
                       "stateVariable": false,
                       "storageLocation": "storage",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                        "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                         "typeString": "struct DeviceActivityLogger.Device"
                       },
                       "typeName": {
                         "contractScope": null,
-                        "id": 36,
+                        "id": 170,
                         "name": "Device",
                         "nodeType": "UserDefinedTypeName",
-                        "referencedDeclaration": 21,
-                        "src": "373:6:0",
+                        "referencedDeclaration": 155,
+                        "src": "373:6:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device"
                         }
                       },
@@ -487,31 +487,31 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 41,
+                  "id": 175,
                   "initialValue": {
                     "argumentTypes": null,
                     "baseExpression": {
                       "argumentTypes": null,
-                      "id": 38,
+                      "id": 172,
                       "name": "db",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 16,
-                      "src": "394:2:0",
+                      "referencedDeclaration": 150,
+                      "src": "394:2:1",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
                         "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device storage ref)"
                       }
                     },
-                    "id": 40,
+                    "id": 174,
                     "indexExpression": {
                       "argumentTypes": null,
-                      "id": 39,
+                      "id": 173,
                       "name": "devId",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 23,
-                      "src": "397:5:0",
+                      "referencedDeclaration": 157,
+                      "src": "397:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -522,19 +522,19 @@
                     "isPure": false,
                     "lValueRequested": false,
                     "nodeType": "IndexAccess",
-                    "src": "394:9:0",
+                    "src": "394:9:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_Device_$21_storage",
+                      "typeIdentifier": "t_struct$_Device_$155_storage",
                       "typeString": "struct DeviceActivityLogger.Device storage ref"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "373:30:0"
+                  "src": "373:30:1"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 51,
+                    "id": 185,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -543,26 +543,26 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 42,
+                        "id": 176,
                         "name": "dev",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 37,
-                        "src": "414:3:0",
+                        "referencedDeclaration": 171,
+                        "src": "414:3:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device storage pointer"
                         }
                       },
-                      "id": 44,
+                      "id": 178,
                       "isConstant": false,
                       "isLValue": true,
                       "isPure": false,
                       "lValueRequested": true,
                       "memberName": "logs",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 20,
-                      "src": "414:8:0",
+                      "referencedDeclaration": 154,
+                      "src": "414:8:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bytes_storage",
                         "typeString": "bytes storage ref"
@@ -577,26 +577,26 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 47,
+                            "id": 181,
                             "name": "dev",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 37,
-                            "src": "442:3:0",
+                            "referencedDeclaration": 171,
+                            "src": "442:3:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                              "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                               "typeString": "struct DeviceActivityLogger.Device storage pointer"
                             }
                           },
-                          "id": 48,
+                          "id": 182,
                           "isConstant": false,
                           "isLValue": true,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "logs",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 20,
-                          "src": "442:8:0",
+                          "referencedDeclaration": 154,
+                          "src": "442:8:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bytes_storage",
                             "typeString": "bytes storage ref"
@@ -604,12 +604,12 @@
                         },
                         {
                           "argumentTypes": null,
-                          "id": 49,
+                          "id": 183,
                           "name": "log",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 25,
-                          "src": "451:3:0",
+                          "referencedDeclaration": 159,
+                          "src": "451:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_string_memory_ptr",
                             "typeString": "string memory"
@@ -629,18 +629,18 @@
                         ],
                         "expression": {
                           "argumentTypes": null,
-                          "id": 45,
+                          "id": 179,
                           "name": "abi",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 204,
-                          "src": "425:3:0",
+                          "referencedDeclaration": 338,
+                          "src": "425:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_abi",
                             "typeString": "abi"
                           }
                         },
-                        "id": 46,
+                        "id": 180,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -648,13 +648,13 @@
                         "memberName": "encodePacked",
                         "nodeType": "MemberAccess",
                         "referencedDeclaration": null,
-                        "src": "425:16:0",
+                        "src": "425:16:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_abiencodepacked_pure$__$returns$_t_bytes_memory_ptr_$",
                           "typeString": "function () pure returns (bytes memory)"
                         }
                       },
-                      "id": 50,
+                      "id": 184,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -662,26 +662,26 @@
                       "lValueRequested": false,
                       "names": [],
                       "nodeType": "FunctionCall",
-                      "src": "425:30:0",
+                      "src": "425:30:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bytes_memory_ptr",
                         "typeString": "bytes memory"
                       }
                     },
-                    "src": "414:41:0",
+                    "src": "414:41:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_storage",
                       "typeString": "bytes storage ref"
                     }
                   },
-                  "id": 52,
+                  "id": 186,
                   "nodeType": "ExpressionStatement",
-                  "src": "414:41:0"
+                  "src": "414:41:1"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 56,
+                    "id": 190,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -689,31 +689,31 @@
                     "nodeType": "UnaryOperation",
                     "operator": "++",
                     "prefix": false,
-                    "src": "466:14:0",
+                    "src": "466:14:1",
                     "subExpression": {
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 53,
+                        "id": 187,
                         "name": "dev",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 37,
-                        "src": "466:3:0",
+                        "referencedDeclaration": 171,
+                        "src": "466:3:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device storage pointer"
                         }
                       },
-                      "id": 55,
+                      "id": 189,
                       "isConstant": false,
                       "isLValue": true,
                       "isPure": false,
                       "lValueRequested": true,
                       "memberName": "logCount",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 18,
-                      "src": "466:12:0",
+                      "referencedDeclaration": 152,
+                      "src": "466:12:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -724,30 +724,30 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 57,
+                  "id": 191,
                   "nodeType": "ExpressionStatement",
-                  "src": "466:14:0"
+                  "src": "466:14:1"
                 }
               ]
             },
             "documentation": null,
-            "id": 59,
+            "id": 193,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
             "name": "addLog",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 26,
+              "id": 160,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 23,
+                  "id": 157,
                   "name": "devId",
                   "nodeType": "VariableDeclaration",
-                  "scope": 59,
-                  "src": "269:10:0",
+                  "scope": 193,
+                  "src": "269:10:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -755,10 +755,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 22,
+                    "id": 156,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "269:4:0",
+                    "src": "269:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -769,11 +769,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 25,
+                  "id": 159,
                   "name": "log",
                   "nodeType": "VariableDeclaration",
-                  "scope": 59,
-                  "src": "281:17:0",
+                  "scope": 193,
+                  "src": "281:17:1",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
@@ -781,10 +781,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 24,
+                    "id": 158,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "281:6:0",
+                    "src": "281:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -794,25 +794,25 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "268:31:0"
+              "src": "268:31:1"
             },
             "returnParameters": {
-              "id": 27,
+              "id": 161,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "306:0:0"
+              "src": "306:0:1"
             },
-            "scope": 87,
-            "src": "253:235:0",
+            "scope": 221,
+            "src": "253:235:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 85,
+              "id": 219,
               "nodeType": "Block",
-              "src": "558:139:0",
+              "src": "558:139:1",
               "statements": [
                 {
                   "expression": {
@@ -824,7 +824,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 70,
+                        "id": 204,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -833,18 +833,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 67,
+                            "id": 201,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 217,
-                            "src": "577:3:0",
+                            "referencedDeclaration": 351,
+                            "src": "577:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 68,
+                          "id": 202,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -852,7 +852,7 @@
                           "memberName": "sender",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "577:10:0",
+                          "src": "577:10:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address_payable",
                             "typeString": "address payable"
@@ -862,18 +862,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 69,
+                          "id": 203,
                           "name": "owner",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 12,
-                          "src": "591:5:0",
+                          "referencedDeclaration": 146,
+                          "src": "591:5:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
                           }
                         },
-                        "src": "577:19:0",
+                        "src": "577:19:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -882,14 +882,14 @@
                       {
                         "argumentTypes": null,
                         "hexValue": "6163636573732064656e696564",
-                        "id": 71,
+                        "id": 205,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "string",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "598:15:0",
+                        "src": "598:15:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_stringliteral_cba8a57ccb1594d7138ca5e2a9216c55d23151b53a95734bafda4b812e3786ff",
@@ -909,21 +909,21 @@
                           "typeString": "literal_string \"access denied\""
                         }
                       ],
-                      "id": 66,
+                      "id": 200,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        220,
-                        221
+                        354,
+                        355
                       ],
-                      "referencedDeclaration": 221,
-                      "src": "569:7:0",
+                      "referencedDeclaration": 355,
+                      "src": "569:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 72,
+                    "id": 206,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -931,43 +931,43 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "569:45:0",
+                    "src": "569:45:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 73,
+                  "id": 207,
                   "nodeType": "ExpressionStatement",
-                  "src": "569:45:0"
+                  "src": "569:45:1"
                 },
                 {
                   "assignments": [
-                    75
+                    209
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 75,
+                      "id": 209,
                       "name": "dev",
                       "nodeType": "VariableDeclaration",
-                      "scope": 85,
-                      "src": "625:18:0",
+                      "scope": 219,
+                      "src": "625:18:1",
                       "stateVariable": false,
                       "storageLocation": "storage",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                        "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                         "typeString": "struct DeviceActivityLogger.Device"
                       },
                       "typeName": {
                         "contractScope": null,
-                        "id": 74,
+                        "id": 208,
                         "name": "Device",
                         "nodeType": "UserDefinedTypeName",
-                        "referencedDeclaration": 21,
-                        "src": "625:6:0",
+                        "referencedDeclaration": 155,
+                        "src": "625:6:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device"
                         }
                       },
@@ -975,31 +975,31 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 79,
+                  "id": 213,
                   "initialValue": {
                     "argumentTypes": null,
                     "baseExpression": {
                       "argumentTypes": null,
-                      "id": 76,
+                      "id": 210,
                       "name": "db",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 16,
-                      "src": "646:2:0",
+                      "referencedDeclaration": 150,
+                      "src": "646:2:1",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
                         "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device storage ref)"
                       }
                     },
-                    "id": 78,
+                    "id": 212,
                     "indexExpression": {
                       "argumentTypes": null,
-                      "id": 77,
+                      "id": 211,
                       "name": "devId",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 61,
-                      "src": "649:5:0",
+                      "referencedDeclaration": 195,
+                      "src": "649:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -1010,14 +1010,14 @@
                     "isPure": false,
                     "lValueRequested": false,
                     "nodeType": "IndexAccess",
-                    "src": "646:9:0",
+                    "src": "646:9:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_Device_$21_storage",
+                      "typeIdentifier": "t_struct$_Device_$155_storage",
                       "typeString": "struct DeviceActivityLogger.Device storage ref"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "625:30:0"
+                  "src": "625:30:1"
                 },
                 {
                   "expression": {
@@ -1027,26 +1027,26 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 81,
+                          "id": 215,
                           "name": "dev",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 75,
-                          "src": "680:3:0",
+                          "referencedDeclaration": 209,
+                          "src": "680:3:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                            "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                             "typeString": "struct DeviceActivityLogger.Device storage pointer"
                           }
                         },
-                        "id": 82,
+                        "id": 216,
                         "isConstant": false,
                         "isLValue": true,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "logs",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 20,
-                        "src": "680:8:0",
+                        "referencedDeclaration": 154,
+                        "src": "680:8:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_storage",
                           "typeString": "bytes storage ref"
@@ -1060,20 +1060,20 @@
                           "typeString": "bytes storage ref"
                         }
                       ],
-                      "id": 80,
+                      "id": 214,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "lValueRequested": false,
                       "nodeType": "ElementaryTypeNameExpression",
-                      "src": "673:6:0",
+                      "src": "673:6:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_string_storage_ptr_$",
                         "typeString": "type(string storage pointer)"
                       },
                       "typeName": "string"
                     },
-                    "id": 83,
+                    "id": 217,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1081,37 +1081,37 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "673:16:0",
+                    "src": "673:16:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string storage pointer"
                     }
                   },
-                  "functionReturnParameters": 65,
-                  "id": 84,
+                  "functionReturnParameters": 199,
+                  "id": 218,
                   "nodeType": "Return",
-                  "src": "666:23:0"
+                  "src": "666:23:1"
                 }
               ]
             },
             "documentation": null,
-            "id": 86,
+            "id": 220,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
             "name": "getLogs",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 62,
+              "id": 196,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 61,
+                  "id": 195,
                   "name": "devId",
                   "nodeType": "VariableDeclaration",
-                  "scope": 86,
-                  "src": "511:10:0",
+                  "scope": 220,
+                  "src": "511:10:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1119,10 +1119,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 60,
+                    "id": 194,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "511:4:0",
+                    "src": "511:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -1132,19 +1132,19 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "510:12:0"
+              "src": "510:12:1"
             },
             "returnParameters": {
-              "id": 65,
+              "id": 199,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 64,
+                  "id": 198,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 86,
-                  "src": "543:13:0",
+                  "scope": 220,
+                  "src": "543:13:1",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
@@ -1152,10 +1152,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 63,
+                    "id": 197,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "543:6:0",
+                    "src": "543:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -1165,33 +1165,33 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "542:15:0"
+              "src": "542:15:1"
             },
-            "scope": 87,
-            "src": "494:203:0",
+            "scope": 221,
+            "src": "494:203:1",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 88,
-        "src": "27:673:0"
+        "scope": 222,
+        "src": "27:673:1"
       }
     ],
-    "src": "0:700:0"
+    "src": "0:700:1"
   },
   "legacyAST": {
-    "absolutePath": "/C/Users/samye/Desktop/_blockchain/secureSmartLock-blockChain/contracts/DeviceActivityLogger.sol",
+    "absolutePath": "/C/Users/samye/Desktop/_Blockchain/deviceActivityLoggerContract/contracts/DeviceActivityLogger.sol",
     "exportedSymbols": {
       "DeviceActivityLogger": [
-        87
+        221
       ]
     },
-    "id": 88,
+    "id": 222,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 1,
+        "id": 135,
         "literals": [
           "solidity",
           "^",
@@ -1199,7 +1199,7 @@
           ".0"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:23:0"
+        "src": "0:23:1"
       },
       {
         "baseContracts": [],
@@ -1207,35 +1207,35 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 87,
+        "id": 221,
         "linearizedBaseContracts": [
-          87
+          221
         ],
         "name": "DeviceActivityLogger",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "body": {
-              "id": 9,
+              "id": 143,
               "nodeType": "Block",
-              "src": "84:37:0",
+              "src": "84:37:1",
               "statements": [
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 7,
+                    "id": 141,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 4,
+                      "id": 138,
                       "name": "owner",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 12,
-                      "src": "95:5:0",
+                      "referencedDeclaration": 146,
+                      "src": "95:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
@@ -1247,18 +1247,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 5,
+                        "id": 139,
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 217,
-                        "src": "103:3:0",
+                        "referencedDeclaration": 351,
+                        "src": "103:3:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
                           "typeString": "msg"
                         }
                       },
-                      "id": 6,
+                      "id": 140,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1266,56 +1266,56 @@
                       "memberName": "sender",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "103:10:0",
+                      "src": "103:10:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address_payable",
                         "typeString": "address payable"
                       }
                     },
-                    "src": "95:18:0",
+                    "src": "95:18:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     }
                   },
-                  "id": 8,
+                  "id": 142,
                   "nodeType": "ExpressionStatement",
-                  "src": "95:18:0"
+                  "src": "95:18:1"
                 }
               ]
             },
             "documentation": null,
-            "id": 10,
+            "id": 144,
             "implemented": true,
             "kind": "constructor",
             "modifiers": [],
             "name": "",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 2,
+              "id": 136,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "75:2:0"
+              "src": "75:2:1"
             },
             "returnParameters": {
-              "id": 3,
+              "id": 137,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "84:0:0"
+              "src": "84:0:1"
             },
-            "scope": 87,
-            "src": "64:57:0",
+            "scope": 221,
+            "src": "64:57:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "constant": false,
-            "id": 12,
+            "id": 146,
             "name": "owner",
             "nodeType": "VariableDeclaration",
-            "scope": 87,
-            "src": "127:13:0",
+            "scope": 221,
+            "src": "127:13:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -1323,10 +1323,10 @@
               "typeString": "address"
             },
             "typeName": {
-              "id": 11,
+              "id": 145,
               "name": "address",
               "nodeType": "ElementaryTypeName",
-              "src": "127:7:0",
+              "src": "127:7:1",
               "stateMutability": "nonpayable",
               "typeDescriptions": {
                 "typeIdentifier": "t_address",
@@ -1338,44 +1338,44 @@
           },
           {
             "constant": false,
-            "id": 16,
+            "id": 150,
             "name": "db",
             "nodeType": "VariableDeclaration",
-            "scope": 87,
-            "src": "147:26:0",
+            "scope": 221,
+            "src": "147:26:1",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+              "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
               "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device)"
             },
             "typeName": {
-              "id": 15,
+              "id": 149,
               "keyType": {
-                "id": 13,
+                "id": 147,
                 "name": "uint",
                 "nodeType": "ElementaryTypeName",
-                "src": "155:4:0",
+                "src": "155:4:1",
                 "typeDescriptions": {
                   "typeIdentifier": "t_uint256",
                   "typeString": "uint256"
                 }
               },
               "nodeType": "Mapping",
-              "src": "147:23:0",
+              "src": "147:23:1",
               "typeDescriptions": {
-                "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+                "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
                 "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device)"
               },
               "valueType": {
                 "contractScope": null,
-                "id": 14,
+                "id": 148,
                 "name": "Device",
                 "nodeType": "UserDefinedTypeName",
-                "referencedDeclaration": 21,
-                "src": "163:6:0",
+                "referencedDeclaration": 155,
+                "src": "163:6:1",
                 "typeDescriptions": {
-                  "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                  "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                   "typeString": "struct DeviceActivityLogger.Device"
                 }
               }
@@ -1385,15 +1385,15 @@
           },
           {
             "canonicalName": "DeviceActivityLogger.Device",
-            "id": 21,
+            "id": 155,
             "members": [
               {
                 "constant": false,
-                "id": 18,
+                "id": 152,
                 "name": "logCount",
                 "nodeType": "VariableDeclaration",
-                "scope": 21,
-                "src": "205:13:0",
+                "scope": 155,
+                "src": "205:13:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -1401,10 +1401,10 @@
                   "typeString": "uint256"
                 },
                 "typeName": {
-                  "id": 17,
+                  "id": 151,
                   "name": "uint",
                   "nodeType": "ElementaryTypeName",
-                  "src": "205:4:0",
+                  "src": "205:4:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_uint256",
                     "typeString": "uint256"
@@ -1415,11 +1415,11 @@
               },
               {
                 "constant": false,
-                "id": 20,
+                "id": 154,
                 "name": "logs",
                 "nodeType": "VariableDeclaration",
-                "scope": 21,
-                "src": "229:10:0",
+                "scope": 155,
+                "src": "229:10:1",
                 "stateVariable": false,
                 "storageLocation": "default",
                 "typeDescriptions": {
@@ -1427,10 +1427,10 @@
                   "typeString": "bytes"
                 },
                 "typeName": {
-                  "id": 19,
+                  "id": 153,
                   "name": "bytes",
                   "nodeType": "ElementaryTypeName",
-                  "src": "229:5:0",
+                  "src": "229:5:1",
                   "typeDescriptions": {
                     "typeIdentifier": "t_bytes_storage_ptr",
                     "typeString": "bytes"
@@ -1442,15 +1442,15 @@
             ],
             "name": "Device",
             "nodeType": "StructDefinition",
-            "scope": 87,
-            "src": "180:67:0",
+            "scope": 221,
+            "src": "180:67:1",
             "visibility": "public"
           },
           {
             "body": {
-              "id": 58,
+              "id": 192,
               "nodeType": "Block",
-              "src": "306:182:0",
+              "src": "306:182:1",
               "statements": [
                 {
                   "expression": {
@@ -1462,7 +1462,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 32,
+                        "id": 166,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1471,18 +1471,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 29,
+                            "id": 163,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 217,
-                            "src": "325:3:0",
+                            "referencedDeclaration": 351,
+                            "src": "325:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 30,
+                          "id": 164,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -1490,7 +1490,7 @@
                           "memberName": "sender",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "325:10:0",
+                          "src": "325:10:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address_payable",
                             "typeString": "address payable"
@@ -1500,18 +1500,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 31,
+                          "id": 165,
                           "name": "owner",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 12,
-                          "src": "339:5:0",
+                          "referencedDeclaration": 146,
+                          "src": "339:5:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
                           }
                         },
-                        "src": "325:19:0",
+                        "src": "325:19:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -1520,14 +1520,14 @@
                       {
                         "argumentTypes": null,
                         "hexValue": "6163636573732064656e696564",
-                        "id": 33,
+                        "id": 167,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "string",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "346:15:0",
+                        "src": "346:15:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_stringliteral_cba8a57ccb1594d7138ca5e2a9216c55d23151b53a95734bafda4b812e3786ff",
@@ -1547,21 +1547,21 @@
                           "typeString": "literal_string \"access denied\""
                         }
                       ],
-                      "id": 28,
+                      "id": 162,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        220,
-                        221
+                        354,
+                        355
                       ],
-                      "referencedDeclaration": 221,
-                      "src": "317:7:0",
+                      "referencedDeclaration": 355,
+                      "src": "317:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 34,
+                    "id": 168,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1569,43 +1569,43 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "317:45:0",
+                    "src": "317:45:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 35,
+                  "id": 169,
                   "nodeType": "ExpressionStatement",
-                  "src": "317:45:0"
+                  "src": "317:45:1"
                 },
                 {
                   "assignments": [
-                    37
+                    171
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 37,
+                      "id": 171,
                       "name": "dev",
                       "nodeType": "VariableDeclaration",
-                      "scope": 58,
-                      "src": "373:18:0",
+                      "scope": 192,
+                      "src": "373:18:1",
                       "stateVariable": false,
                       "storageLocation": "storage",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                        "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                         "typeString": "struct DeviceActivityLogger.Device"
                       },
                       "typeName": {
                         "contractScope": null,
-                        "id": 36,
+                        "id": 170,
                         "name": "Device",
                         "nodeType": "UserDefinedTypeName",
-                        "referencedDeclaration": 21,
-                        "src": "373:6:0",
+                        "referencedDeclaration": 155,
+                        "src": "373:6:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device"
                         }
                       },
@@ -1613,31 +1613,31 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 41,
+                  "id": 175,
                   "initialValue": {
                     "argumentTypes": null,
                     "baseExpression": {
                       "argumentTypes": null,
-                      "id": 38,
+                      "id": 172,
                       "name": "db",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 16,
-                      "src": "394:2:0",
+                      "referencedDeclaration": 150,
+                      "src": "394:2:1",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
                         "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device storage ref)"
                       }
                     },
-                    "id": 40,
+                    "id": 174,
                     "indexExpression": {
                       "argumentTypes": null,
-                      "id": 39,
+                      "id": 173,
                       "name": "devId",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 23,
-                      "src": "397:5:0",
+                      "referencedDeclaration": 157,
+                      "src": "397:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -1648,19 +1648,19 @@
                     "isPure": false,
                     "lValueRequested": false,
                     "nodeType": "IndexAccess",
-                    "src": "394:9:0",
+                    "src": "394:9:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_Device_$21_storage",
+                      "typeIdentifier": "t_struct$_Device_$155_storage",
                       "typeString": "struct DeviceActivityLogger.Device storage ref"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "373:30:0"
+                  "src": "373:30:1"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 51,
+                    "id": 185,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1669,26 +1669,26 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 42,
+                        "id": 176,
                         "name": "dev",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 37,
-                        "src": "414:3:0",
+                        "referencedDeclaration": 171,
+                        "src": "414:3:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device storage pointer"
                         }
                       },
-                      "id": 44,
+                      "id": 178,
                       "isConstant": false,
                       "isLValue": true,
                       "isPure": false,
                       "lValueRequested": true,
                       "memberName": "logs",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 20,
-                      "src": "414:8:0",
+                      "referencedDeclaration": 154,
+                      "src": "414:8:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bytes_storage",
                         "typeString": "bytes storage ref"
@@ -1703,26 +1703,26 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 47,
+                            "id": 181,
                             "name": "dev",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 37,
-                            "src": "442:3:0",
+                            "referencedDeclaration": 171,
+                            "src": "442:3:1",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                              "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                               "typeString": "struct DeviceActivityLogger.Device storage pointer"
                             }
                           },
-                          "id": 48,
+                          "id": 182,
                           "isConstant": false,
                           "isLValue": true,
                           "isPure": false,
                           "lValueRequested": false,
                           "memberName": "logs",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 20,
-                          "src": "442:8:0",
+                          "referencedDeclaration": 154,
+                          "src": "442:8:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_bytes_storage",
                             "typeString": "bytes storage ref"
@@ -1730,12 +1730,12 @@
                         },
                         {
                           "argumentTypes": null,
-                          "id": 49,
+                          "id": 183,
                           "name": "log",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 25,
-                          "src": "451:3:0",
+                          "referencedDeclaration": 159,
+                          "src": "451:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_string_memory_ptr",
                             "typeString": "string memory"
@@ -1755,18 +1755,18 @@
                         ],
                         "expression": {
                           "argumentTypes": null,
-                          "id": 45,
+                          "id": 179,
                           "name": "abi",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 204,
-                          "src": "425:3:0",
+                          "referencedDeclaration": 338,
+                          "src": "425:3:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_abi",
                             "typeString": "abi"
                           }
                         },
-                        "id": 46,
+                        "id": 180,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -1774,13 +1774,13 @@
                         "memberName": "encodePacked",
                         "nodeType": "MemberAccess",
                         "referencedDeclaration": null,
-                        "src": "425:16:0",
+                        "src": "425:16:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_abiencodepacked_pure$__$returns$_t_bytes_memory_ptr_$",
                           "typeString": "function () pure returns (bytes memory)"
                         }
                       },
-                      "id": 50,
+                      "id": 184,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1788,26 +1788,26 @@
                       "lValueRequested": false,
                       "names": [],
                       "nodeType": "FunctionCall",
-                      "src": "425:30:0",
+                      "src": "425:30:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_bytes_memory_ptr",
                         "typeString": "bytes memory"
                       }
                     },
-                    "src": "414:41:0",
+                    "src": "414:41:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_bytes_storage",
                       "typeString": "bytes storage ref"
                     }
                   },
-                  "id": 52,
+                  "id": 186,
                   "nodeType": "ExpressionStatement",
-                  "src": "414:41:0"
+                  "src": "414:41:1"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 56,
+                    "id": 190,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1815,31 +1815,31 @@
                     "nodeType": "UnaryOperation",
                     "operator": "++",
                     "prefix": false,
-                    "src": "466:14:0",
+                    "src": "466:14:1",
                     "subExpression": {
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 53,
+                        "id": 187,
                         "name": "dev",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 37,
-                        "src": "466:3:0",
+                        "referencedDeclaration": 171,
+                        "src": "466:3:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device storage pointer"
                         }
                       },
-                      "id": 55,
+                      "id": 189,
                       "isConstant": false,
                       "isLValue": true,
                       "isPure": false,
                       "lValueRequested": true,
                       "memberName": "logCount",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 18,
-                      "src": "466:12:0",
+                      "referencedDeclaration": 152,
+                      "src": "466:12:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -1850,30 +1850,30 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 57,
+                  "id": 191,
                   "nodeType": "ExpressionStatement",
-                  "src": "466:14:0"
+                  "src": "466:14:1"
                 }
               ]
             },
             "documentation": null,
-            "id": 59,
+            "id": 193,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
             "name": "addLog",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 26,
+              "id": 160,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 23,
+                  "id": 157,
                   "name": "devId",
                   "nodeType": "VariableDeclaration",
-                  "scope": 59,
-                  "src": "269:10:0",
+                  "scope": 193,
+                  "src": "269:10:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1881,10 +1881,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 22,
+                    "id": 156,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "269:4:0",
+                    "src": "269:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -1895,11 +1895,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 25,
+                  "id": 159,
                   "name": "log",
                   "nodeType": "VariableDeclaration",
-                  "scope": 59,
-                  "src": "281:17:0",
+                  "scope": 193,
+                  "src": "281:17:1",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
@@ -1907,10 +1907,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 24,
+                    "id": 158,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "281:6:0",
+                    "src": "281:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -1920,25 +1920,25 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "268:31:0"
+              "src": "268:31:1"
             },
             "returnParameters": {
-              "id": 27,
+              "id": 161,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "306:0:0"
+              "src": "306:0:1"
             },
-            "scope": 87,
-            "src": "253:235:0",
+            "scope": 221,
+            "src": "253:235:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 85,
+              "id": 219,
               "nodeType": "Block",
-              "src": "558:139:0",
+              "src": "558:139:1",
               "statements": [
                 {
                   "expression": {
@@ -1950,7 +1950,7 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 70,
+                        "id": 204,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1959,18 +1959,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 67,
+                            "id": 201,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 217,
-                            "src": "577:3:0",
+                            "referencedDeclaration": 351,
+                            "src": "577:3:1",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 68,
+                          "id": 202,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -1978,7 +1978,7 @@
                           "memberName": "sender",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "577:10:0",
+                          "src": "577:10:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address_payable",
                             "typeString": "address payable"
@@ -1988,18 +1988,18 @@
                         "operator": "==",
                         "rightExpression": {
                           "argumentTypes": null,
-                          "id": 69,
+                          "id": 203,
                           "name": "owner",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 12,
-                          "src": "591:5:0",
+                          "referencedDeclaration": 146,
+                          "src": "591:5:1",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
                           }
                         },
-                        "src": "577:19:0",
+                        "src": "577:19:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -2008,14 +2008,14 @@
                       {
                         "argumentTypes": null,
                         "hexValue": "6163636573732064656e696564",
-                        "id": 71,
+                        "id": 205,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
                         "kind": "string",
                         "lValueRequested": false,
                         "nodeType": "Literal",
-                        "src": "598:15:0",
+                        "src": "598:15:1",
                         "subdenomination": null,
                         "typeDescriptions": {
                           "typeIdentifier": "t_stringliteral_cba8a57ccb1594d7138ca5e2a9216c55d23151b53a95734bafda4b812e3786ff",
@@ -2035,21 +2035,21 @@
                           "typeString": "literal_string \"access denied\""
                         }
                       ],
-                      "id": 66,
+                      "id": 200,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        220,
-                        221
+                        354,
+                        355
                       ],
-                      "referencedDeclaration": 221,
-                      "src": "569:7:0",
+                      "referencedDeclaration": 355,
+                      "src": "569:7:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$_t_string_memory_ptr_$returns$__$",
                         "typeString": "function (bool,string memory) pure"
                       }
                     },
-                    "id": 72,
+                    "id": 206,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2057,43 +2057,43 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "569:45:0",
+                    "src": "569:45:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 73,
+                  "id": 207,
                   "nodeType": "ExpressionStatement",
-                  "src": "569:45:0"
+                  "src": "569:45:1"
                 },
                 {
                   "assignments": [
-                    75
+                    209
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 75,
+                      "id": 209,
                       "name": "dev",
                       "nodeType": "VariableDeclaration",
-                      "scope": 85,
-                      "src": "625:18:0",
+                      "scope": 219,
+                      "src": "625:18:1",
                       "stateVariable": false,
                       "storageLocation": "storage",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                        "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                         "typeString": "struct DeviceActivityLogger.Device"
                       },
                       "typeName": {
                         "contractScope": null,
-                        "id": 74,
+                        "id": 208,
                         "name": "Device",
                         "nodeType": "UserDefinedTypeName",
-                        "referencedDeclaration": 21,
-                        "src": "625:6:0",
+                        "referencedDeclaration": 155,
+                        "src": "625:6:1",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                          "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                           "typeString": "struct DeviceActivityLogger.Device"
                         }
                       },
@@ -2101,31 +2101,31 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 79,
+                  "id": 213,
                   "initialValue": {
                     "argumentTypes": null,
                     "baseExpression": {
                       "argumentTypes": null,
-                      "id": 76,
+                      "id": 210,
                       "name": "db",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 16,
-                      "src": "646:2:0",
+                      "referencedDeclaration": 150,
+                      "src": "646:2:1",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$21_storage_$",
+                        "typeIdentifier": "t_mapping$_t_uint256_$_t_struct$_Device_$155_storage_$",
                         "typeString": "mapping(uint256 => struct DeviceActivityLogger.Device storage ref)"
                       }
                     },
-                    "id": 78,
+                    "id": 212,
                     "indexExpression": {
                       "argumentTypes": null,
-                      "id": 77,
+                      "id": 211,
                       "name": "devId",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 61,
-                      "src": "649:5:0",
+                      "referencedDeclaration": 195,
+                      "src": "649:5:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -2136,14 +2136,14 @@
                     "isPure": false,
                     "lValueRequested": false,
                     "nodeType": "IndexAccess",
-                    "src": "646:9:0",
+                    "src": "646:9:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_struct$_Device_$21_storage",
+                      "typeIdentifier": "t_struct$_Device_$155_storage",
                       "typeString": "struct DeviceActivityLogger.Device storage ref"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "625:30:0"
+                  "src": "625:30:1"
                 },
                 {
                   "expression": {
@@ -2153,26 +2153,26 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 81,
+                          "id": 215,
                           "name": "dev",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 75,
-                          "src": "680:3:0",
+                          "referencedDeclaration": 209,
+                          "src": "680:3:1",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_struct$_Device_$21_storage_ptr",
+                            "typeIdentifier": "t_struct$_Device_$155_storage_ptr",
                             "typeString": "struct DeviceActivityLogger.Device storage pointer"
                           }
                         },
-                        "id": 82,
+                        "id": 216,
                         "isConstant": false,
                         "isLValue": true,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "logs",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 20,
-                        "src": "680:8:0",
+                        "referencedDeclaration": 154,
+                        "src": "680:8:1",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bytes_storage",
                           "typeString": "bytes storage ref"
@@ -2186,20 +2186,20 @@
                           "typeString": "bytes storage ref"
                         }
                       ],
-                      "id": 80,
+                      "id": 214,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "lValueRequested": false,
                       "nodeType": "ElementaryTypeNameExpression",
-                      "src": "673:6:0",
+                      "src": "673:6:1",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_string_storage_ptr_$",
                         "typeString": "type(string storage pointer)"
                       },
                       "typeName": "string"
                     },
-                    "id": 83,
+                    "id": 217,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2207,37 +2207,37 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "673:16:0",
+                    "src": "673:16:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string storage pointer"
                     }
                   },
-                  "functionReturnParameters": 65,
-                  "id": 84,
+                  "functionReturnParameters": 199,
+                  "id": 218,
                   "nodeType": "Return",
-                  "src": "666:23:0"
+                  "src": "666:23:1"
                 }
               ]
             },
             "documentation": null,
-            "id": 86,
+            "id": 220,
             "implemented": true,
             "kind": "function",
             "modifiers": [],
             "name": "getLogs",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 62,
+              "id": 196,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 61,
+                  "id": 195,
                   "name": "devId",
                   "nodeType": "VariableDeclaration",
-                  "scope": 86,
-                  "src": "511:10:0",
+                  "scope": 220,
+                  "src": "511:10:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2245,10 +2245,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 60,
+                    "id": 194,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "511:4:0",
+                    "src": "511:4:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -2258,19 +2258,19 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "510:12:0"
+              "src": "510:12:1"
             },
             "returnParameters": {
-              "id": 65,
+              "id": 199,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 64,
+                  "id": 198,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 86,
-                  "src": "543:13:0",
+                  "scope": 220,
+                  "src": "543:13:1",
                   "stateVariable": false,
                   "storageLocation": "memory",
                   "typeDescriptions": {
@@ -2278,10 +2278,10 @@
                     "typeString": "string"
                   },
                   "typeName": {
-                    "id": 63,
+                    "id": 197,
                     "name": "string",
                     "nodeType": "ElementaryTypeName",
-                    "src": "543:6:0",
+                    "src": "543:6:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_string_storage_ptr",
                       "typeString": "string"
@@ -2291,26 +2291,32 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "542:15:0"
+              "src": "542:15:1"
             },
-            "scope": 87,
-            "src": "494:203:0",
+            "scope": 221,
+            "src": "494:203:1",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 88,
-        "src": "27:673:0"
+        "scope": 222,
+        "src": "27:673:1"
       }
     ],
-    "src": "0:700:0"
+    "src": "0:700:1"
   },
   "compiler": {
     "name": "solc",
     "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
   },
   "networks": {
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0x9b76D505E7ADDe4cE3c8DBCc7a7E0dc83D30a8df",
+      "transactionHash": "0x519be65a43c7d5aedb8a42053edc4589516a932593c0a35ef8d0190ecb9cfabc"
+    },
     "5777": {
       "events": {},
       "links": {},
@@ -2355,7 +2361,7 @@
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2019-06-23T19:31:52.584Z",
+  "updatedAt": "2019-10-23T20:55:44.330Z",
   "devdoc": {
     "methods": {}
   },
